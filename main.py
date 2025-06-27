@@ -1,10 +1,10 @@
 import os
 os.environ["LANGCHAIN_TRACING_V2"] = "true"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 os.environ["LANGCHAIN_PROJECT"] = "RAG"
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB-BpyKQh7CLWe302g4Wc9K4Ct2tU-1OTg"
+os.environ["GOOGLE_API_KEY"] = ""
 
 import warnings
 
